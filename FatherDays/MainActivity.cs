@@ -26,7 +26,7 @@ namespace FatherDays
             webView.SetWebViewClient(new HybridWebViewClient());
 
             // Render the view from the type generated from RazorView.cshtml
-            var model = new Model1() { Text = "Click Me to Discover Another Revelation" };
+            var model = new Model1() { Text = "Click Me to Discover Another Revelation!" };
             var template = new RazorView() { Model = model };
             var page = template.GenerateString();
 
