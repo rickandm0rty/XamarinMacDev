@@ -9,7 +9,7 @@ using Android.OS;
 
 namespace FatherDays
 {
-    [Activity(Label = "MyFatherTaughtMe", MainLauncher = true, Icon = "@mipmap/icon")]
+    [Activity(Label = "AudiExplorer", MainLauncher = true, Icon = "@mipmap/icon")]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
@@ -26,7 +26,7 @@ namespace FatherDays
             webView.SetWebViewClient(new HybridWebViewClient());
 
             // Render the view from the type generated from RazorView.cshtml
-            var model = new Model1() { Text = "Click Me to Discover Another Revelation!" };
+            var model = new Model1() { Text = "Explore Audi's Models" };
             var template = new RazorView() { Model = model };
             var page = template.GenerateString();
 

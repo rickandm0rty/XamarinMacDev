@@ -69,6 +69,7 @@
     <None Include="Views\RazorView.cshtml">
       <Generator>RazorTemplatePreprocessor</Generator>
       <CustomToolNamespace>FatherDays</CustomToolNamespace>
+      <LastGenOutput>RazorView.cs</LastGenOutput>
     </None>
     <None Include="packages.config" />
   </ItemGroup>

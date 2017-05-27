@@ -4,7 +4,14 @@
    (Resources on iOS or Assets on Android), with the same Build Action 
    (BundleResource on iOS or AndroidAsset on Android), to be accessible 
    from a path starting at the root of your hybrid application.  */
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 input {
     width: 100%;
+}
+
+#label {
+    color: C8102E;
+    text-align: center;
+    text-shadow: 2px 1px #a3a2a0;
 }
