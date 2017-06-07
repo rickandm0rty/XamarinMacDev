@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{31D275EE-7E48-4632-98CA-8136CCE50210}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InfiniteHosueofPancakes Status">
+    <Files>
+      <File FileName="InfiniteHosueofPancakes/Program.cs" Line="16" Column="9" />
+      <File FileName="InfiniteHosueofPancakes Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
